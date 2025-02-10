@@ -1,0 +1,112 @@
+[
+    {
+        "title": "Bacterial Pneumonia",
+        "content": {
+            "images": [
+                "/disese-img/bacterial_pneumonia/1.webp",
+                "/disese-img/bacterial_pneumonia/2.jpg"
+            ],
+            "summary": "Bacterial pneumonia is a lung infection caused by bacteria, commonly Streptococcus pneumoniae. It results in inflammation and fluid buildup in the lungs, making it difficult for oxygen to reach the bloodstream. Timely antibiotic treatment is crucial to prevent complications.",
+            "possible_causes": [
+                "Bacterial Infection: Spread through respiratory droplets from coughing, sneezing, or close contact with an infected person.",
+                "Aspiration: Inhaling food, liquids, or vomit into the lungs.",
+                "Post-Viral Infection: Developing pneumonia after a viral respiratory illness weakens the lungs.",
+                "Weakened Immune System: Individuals with chronic illnesses or immunosuppressive conditions are at higher risk."
+            ],
+            "risk_factors": [
+                "Smoking: Weakens the lungs and increases susceptibility to infections.",
+                "Chronic Illnesses: Heart disease, COPD, asthma, and diabetes heighten the risk.",
+                "Hospitalization: Prolonged hospital stays, particularly with ventilator use, increase exposure.",
+                "Immune Suppression: Conditions like HIV/AIDS or chemotherapy reduce the body's defenses."
+            ],
+            "symptoms": [
+                "High fever and chills.",
+                "Persistent cough with yellow, green, or bloody mucus.",
+                "Chest pain that worsens with breathing or coughing.",
+                "Shortness of breath or rapid, shallow breathing.",
+                "Fatigue, weakness, and confusion in severe cases (especially in older adults)."
+            ],
+            "home_remedies": [
+                "Hydration: Drink warm fluids like herbal tea, broth, or water to thin mucus.",
+                "Steam Therapy: Inhaling steam helps relieve congestion and ease breathing.",
+                "Rest: Ensure adequate sleep and avoid strenuous activities.",
+                "Honey and Ginger: Natural remedies to soothe the throat and reduce inflammation.",
+                "Humidifier: Keeps air moist, reducing discomfort from dry cough and congestion."
+            ],
+            "complications": [
+                "Pleural Effusion: Fluid buildup around the lungs, causing difficulty breathing.",
+                "Sepsis: Bacteria entering the bloodstream, potentially leading to organ failure.",
+                "Lung Abscess: Pus-filled cavities forming in the lungs.",
+                "ARDS (Acute Respiratory Distress Syndrome): Life-threatening respiratory failure."
+            ],
+            "when_to_see_a_doctor": [
+                "Persistent high fever (above 102°F or 38.9°C).",
+                "Difficulty breathing or chest pain that worsens.",
+                "Coughing up blood or worsening symptoms after 48 hours of home care.",
+                "Severe fatigue or mental confusion, especially in older adults."
+            ],
+            "whom_to_consult": [
+                "General Physician: For initial evaluation and antibiotic treatment.",
+                "Pulmonologist: For severe or chronic respiratory infections.",
+                "Infectious Disease Specialist: For complicated or drug-resistant infections."
+            ],
+            "calorie_and_diet_intake": "Total Daily Calorie Intake: 2,000–2,300 calories/day"
+        }
+    },
+    {
+        "title": "Coronavirus Disease (COVID-19)",
+        "content": {
+            "images": [
+                "url path",
+                "url path"
+            ],
+            "summary": "Coronavirus Disease (COVID-19) is a highly contagious viral illness caused by the SARS-CoV-2 virus. It primarily affects the respiratory system, but severe cases can involve multiple organs. Symptoms range from mild fever and cough to severe respiratory distress, requiring timely isolation and medical care.",
+            "possible_causes": [
+                "Viral Transmission: Spread through respiratory droplets from coughing, sneezing, or talking.",
+                "Surface Contact: Touching contaminated surfaces and then touching the face (eyes, nose, mouth).",
+                "Close Contact: Prolonged interaction with infected individuals, especially indoors.",
+                "Airborne Spread: In poorly ventilated spaces, aerosolized particles can linger in the air."
+            ],
+            "risk_factors": [
+                "Underlying Conditions: Heart disease, diabetes, hypertension, or chronic respiratory illnesses.",
+                "Weakened Immune System: Individuals undergoing chemotherapy, transplant patients, or those with HIV/AIDS.",
+                "Lifestyle Factors: Smoking or a sedentary lifestyle can increase vulnerability.",
+                "Unvaccinated Status: Lack of vaccination increases the risk of severe symptoms."
+            ],
+            "symptoms": [
+                "Fever, chills, and fatigue.",
+                "Dry cough or productive cough.",
+                "Shortness of breath or difficulty breathing.",
+                "Loss of taste or smell (anosmia).",
+                "Sore throat, headache, and body aches.",
+                "Nausea, vomiting, or diarrhea in some cases."
+            ],
+            "home_remedies": [
+                "Stay Hydrated: Drink plenty of fluids like water, herbal teas, or soups to stay hydrated.",
+                "Rest and Isolation: Ensure adequate sleep and rest to allow the body to recover while avoiding spreading the virus.",
+                "Saltwater Gargles: Relieve sore throat and irritation.",
+                "Steam Inhalation: Helps ease nasal congestion and breathing difficulties.",
+                "Immune-Boosting Foods: Consume ginger, turmeric, garlic, and honey to support immunity."
+            ],
+            "complications": [
+                "Pneumonia: Severe inflammation of the lungs, leading to oxygen deprivation.",
+                "Acute Respiratory Distress Syndrome (ARDS): Severe lung failure requiring ventilator support.",
+                "Organ Failure: Damage to the heart, kidneys, or liver in critical cases.",
+                "Long COVID: Persistent symptoms like fatigue, brain fog, and shortness of breath for weeks or months.",
+                "Blood Clots: Increased risk of deep vein thrombosis, strokes, or pulmonary embolism."
+            ],
+            "when_to_see_a_doctor": [
+                "Persistent high fever (above 102°F or 38.9°C).",
+                "Difficulty breathing or chest pain that worsens.",
+                "Coughing up blood or worsening symptoms after 48 hours of home care.",
+                "Severe fatigue or mental confusion, especially in older adults."
+            ],
+            "whom_to_consult": [
+                "General Physician: For initial evaluation and antibiotic treatment.",
+                "Pulmonologist: For severe or chronic respiratory infections.",
+                "Infectious Disease Specialist: For complicated or drug-resistant infections."
+            ],
+            "calorie_and_diet_intake": "Total Daily Calorie Intake: 2,000–2,300 calories/day"
+        }
+    }
+]

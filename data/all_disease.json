@@ -1,0 +1,453 @@
+[
+    {
+        "title": "Bacterial Pneumonia",
+        "content": {
+            "images": [
+                "/disese-img/bacterial_pneumonia/1.webp",
+                "/disese-img/bacterial_pneumonia/2.jpg"
+            ],
+            "summary": "Bacterial pneumonia is a lung infection caused by bacteria, commonly Streptococcus pneumoniae. It results in inflammation and fluid buildup in the lungs, making it difficult for oxygen to reach the bloodstream. Timely antibiotic treatment is crucial to prevent complications.",
+            "possible_causes": [
+                "Bacterial Infection: Spread through respiratory droplets from coughing, sneezing, or close contact with an infected person.",
+                "Aspiration: Inhaling food, liquids, or vomit into the lungs.",
+                "Post-Viral Infection: Developing pneumonia after a viral respiratory illness weakens the lungs.",
+                "Weakened Immune System: Individuals with chronic illnesses or immunosuppressive conditions are at higher risk."
+            ],
+            "risk_factors": [
+                "Smoking: Weakens the lungs and increases susceptibility to infections.",
+                "Chronic Illnesses: Heart disease, COPD, asthma, and diabetes heighten the risk.",
+                "Hospitalization: Prolonged hospital stays, particularly with ventilator use, increase exposure.",
+                "Immune Suppression: Conditions like HIV/AIDS or chemotherapy reduce the body's defenses."
+            ],
+            "symptoms": [
+                "High fever and chills.",
+                "Persistent cough with yellow, green, or bloody mucus.",
+                "Chest pain that worsens with breathing or coughing.",
+                "Shortness of breath or rapid, shallow breathing.",
+                "Fatigue, weakness, and confusion in severe cases (especially in older adults)."
+            ],
+            "home_remedies": [
+                "Hydration: Drink warm fluids like herbal tea, broth, or water to thin mucus.",
+                "Steam Therapy: Inhaling steam helps relieve congestion and ease breathing.",
+                "Rest: Ensure adequate sleep and avoid strenuous activities.",
+                "Honey and Ginger: Natural remedies to soothe the throat and reduce inflammation.",
+                "Humidifier: Keeps air moist, reducing discomfort from dry cough and congestion."
+            ],
+            "complications": [
+                "Pleural Effusion: Fluid buildup around the lungs, causing difficulty breathing.",
+                "Sepsis: Bacteria entering the bloodstream, potentially leading to organ failure.",
+                "Lung Abscess: Pus-filled cavities forming in the lungs.",
+                "ARDS (Acute Respiratory Distress Syndrome): Life-threatening respiratory failure."
+            ],
+            "when_to_see_a_doctor": [
+                "Persistent high fever (above 102\u00c2\u00b0F or 38.9\u00c2\u00b0C).",
+                "Difficulty breathing or chest pain that worsens.",
+                "Coughing up blood or worsening symptoms after 48 hours of home care.",
+                "Severe fatigue or mental confusion, especially in older adults."
+            ],
+            "whom_to_consult": [
+                "General Physician: For initial evaluation and antibiotic treatment.",
+                "Pulmonologist: For severe or chronic respiratory infections.",
+                "Infectious Disease Specialist: For complicated or drug-resistant infections."
+            ],
+            "calorie_and_diet_intake": "Total Daily Calorie Intake: 2,000\u00e2\u20ac\u201c2,300 calories/day"
+        }
+    },
+    {
+        "title": "Coronavirus Disease (COVID-19)",
+        "content": {
+            "images": [
+                "/disese-img/COVID/1.jpeg",
+                "/disese-img/COVID/2.jpeg"
+            ],
+            "summary": "Coronavirus Disease (COVID-19) is a highly contagious viral illness caused by the SARS-CoV-2 virus. It primarily affects the respiratory system, but severe cases can involve multiple organs. Symptoms range from mild fever and cough to severe respiratory distress, requiring timely isolation and medical care.",
+            "possible_causes": [
+                "Viral Transmission: Spread through respiratory droplets from coughing, sneezing, or talking.",
+                "Surface Contact: Touching contaminated surfaces and then touching the face (eyes, nose, mouth).",
+                "Close Contact: Prolonged interaction with infected individuals, especially indoors.",
+                "Airborne Spread: In poorly ventilated spaces, aerosolized particles can linger in the air."
+            ],
+            "risk_factors": [
+                "Underlying Conditions: Heart disease, diabetes, hypertension, or chronic respiratory illnesses.",
+                "Weakened Immune System: Individuals undergoing chemotherapy, transplant patients, or those with HIV/AIDS.",
+                "Lifestyle Factors: Smoking or a sedentary lifestyle can increase vulnerability.",
+                "Unvaccinated Status: Lack of vaccination increases the risk of severe symptoms."
+            ],
+            "symptoms": [
+                "Fever, chills, and fatigue.",
+                "Dry cough or productive cough.",
+                "Shortness of breath or difficulty breathing.",
+                "Loss of taste or smell (anosmia).",
+                "Sore throat, headache, and body aches.",
+                "Nausea, vomiting, or diarrhea in some cases."
+            ],
+            "home_remedies": [
+                "Stay Hydrated: Drink plenty of fluids like water, herbal teas, or soups to stay hydrated.",
+                "Rest and Isolation: Ensure adequate sleep and rest to allow the body to recover while avoiding spreading the virus.",
+                "Saltwater Gargles: Relieve sore throat and irritation.",
+                "Steam Inhalation: Helps ease nasal congestion and breathing difficulties.",
+                "Immune-Boosting Foods: Consume ginger, turmeric, garlic, and honey to support immunity."
+            ],
+            "complications": [
+                "Pneumonia: Severe inflammation of the lungs, leading to oxygen deprivation.",
+                "Acute Respiratory Distress Syndrome (ARDS): Severe lung failure requiring ventilator support.",
+                "Organ Failure: Damage to the heart, kidneys, or liver in critical cases.",
+                "Long COVID: Persistent symptoms like fatigue, brain fog, and shortness of breath for weeks or months.",
+                "Blood Clots: Increased risk of deep vein thrombosis, strokes, or pulmonary embolism."
+            ],
+            "when_to_see_a_doctor": [
+                "Difficulty breathing or persistent chest pain.",
+                "Confusion, disorientation, or inability to wake.",
+                "Bluish lips or face indicating oxygen deprivation.",
+                "Symptoms worsening after initial improvement.",
+                "High fever persisting for more than 48 hours."
+            ],
+            "whom_to_consult": [
+                "General Physician: For initial evaluation, diagnosis, and medication.",
+                "Pulmonologist: For severe respiratory symptoms or complications.",
+                "Infectious Disease Specialist: For complex or prolonged cases.",
+                "Critical Care Specialist: For severe cases requiring ICU support."
+            ],
+            "calorie_and_diet_intake": "Total Daily Calorie Intake: 2,200\u00e2\u20ac\u201c2,500 calories/day"
+        }
+    },
+    {
+        "title":"Tuberculosis (TB)",
+         "content":{
+            "images": [
+                "/disese-img/TB/1.jpeg",
+                "/disese-img/TB/2.jpeg"
+            ],
+            "summary": "Tuberculosis (TB) is a contagious bacterial infection primarily affecting the lungs, caused by Mycobacterium tuberculosis. It spreads through airborne droplets when an infected person coughs or sneezes. TB can be latent (inactive) or active, with active TB causing serious illness if not treated promptly.",
+            "possible_causes": [
+                "Bacterial Infection: Spread through the air when a person with active TB coughs, sneezes, or talks.",
+                "Close Contact: Prolonged exposure to someone with active TB, especially in crowded settings like households, prisons, or hospitals.",
+                "Weakened Immune System: Individuals with compromised immunity, such as those with HIV, are at higher risk.",
+                "Travel History: Living or traveling to areas with high rates of TB increases the risk of exposure."
+            ],
+            "risk_factors": [
+                "Close Contact with TB Infected Individuals: Living with someone who has active TB.",
+                "Weak Immune System: Conditions like HIV/AIDS, diabetes, or cancer treatment can increase vulnerability.",
+                "Poor Living Conditions: Crowded, poorly ventilated areas, especially in developing countries.",
+                "Substance Abuse: Alcoholism or drug use can weaken the immune system, increasing the risk."
+            ],
+            "symptoms": [
+                "Persistent cough lasting more than 3 weeks.",
+                "Coughing up blood or sputum (mucus from the lungs).",
+                "Night sweats and fever.",
+                "Unexplained weight loss and fatigue.",
+                "Chest pain and difficulty breathing.",
+                "Loss of appetite."
+            ],
+            "home_remedies": [
+                "Ginger and Honey: Known for their antibacterial properties, these can soothe the throat and reduce inflammation.",
+                "Turmeric: Contains curcumin, which may help reduce inflammation in the lungs.",
+                "Garlic: Natural antibiotic that may help support the immune system.",
+                "Steam Inhalation: Helps relieve congestion and coughing by loosening mucus in the chest.",
+                "Healthy Diet: Include foods rich in vitamins and minerals to boost the immune system, such as fruits, vegetables, and whole grains."
+            ],
+            "complications": [
+                "Lung Damage: Chronic TB can lead to scarring and damage to lung tissue, impairing lung function.",
+                "Miliary TB: The bacteria spread throughout the body, affecting organs like the liver, spleen, and kidneys.",
+                "Respiratory Failure: Severe cases of TB can lead to difficulty breathing and respiratory distress.",
+                "Drug-Resistant TB: Resistance to TB drugs may occur, making treatment more difficult and prolonged.",
+                "TB in Other Organs: TB can affect organs outside the lungs, including the kidneys, spine, and brain."
+            ],
+            "when_to_see_a_doctor": [
+                "Persistent cough for more than three weeks, especially with blood or mucus.",
+                "Unexplained weight loss or night sweats.",
+                "Chest pain or difficulty breathing.",
+                "High fever or fatigue that doesn\u00e2\u20ac\u2122t go away.",
+                "If you have been in close contact with someone diagnosed with TB."
+            ],
+            "whom_to_consult": [
+                "General Physician: For initial evaluation, diagnosis, and referral for specialized treatment.",
+                "Pulmonologist: For lung-specific issues and severe pulmonary TB cases.",
+                "Infectious Disease Specialist: For complex or drug-resistant TB.",
+                "TB Specialist: For ongoing treatment, monitoring, and drug therapy, particularly for multi-drug resistant TB."
+            ],
+            "calorie_and_diet_intake": "2,200\u00e2\u20ac\u201c2,500 calories/day"
+        }
+    },
+    {
+        "title":"Viral Pneumonia",
+        "content": {
+            "images": [
+                "/disese-img/viral_pnemonia/1.jpeg",
+                "/disese-img/viral_pnemonia/2.jpeg"
+            ],
+            "summary": "Viral pneumonia is an infection of the lungs caused by various viruses such as influenza, respiratory syncytial virus (RSV), or coronaviruses. It can range from mild to severe and often follows a viral upper respiratory infection. Timely diagnosis and treatment are important to prevent complications, especially in the elderly and those with weakened immune systems.",
+            "possible_causes": [
+                "Influenza Virus: One of the most common causes of viral pneumonia, especially during flu season.",
+                "Respiratory Syncytial Virus (RSV): A common cause of pneumonia in young children and the elderly.",
+                "Coronaviruses (e.g., SARS-CoV-2): Can lead to severe pneumonia, as seen in COVID-19.",
+                "Adenovirus: Can cause respiratory infections leading to pneumonia, particularly in children.",
+                "Parainfluenza Virus: Often causes viral pneumonia in children and the elderly."
+            ],
+            "risk_factors": [
+                "Weakened Immune System: Conditions such as HIV, cancer treatments, and chronic diseases like diabetes or heart disease increase susceptibility.",
+                "Chronic Lung Diseases: People with asthma, COPD, or previous lung infections are more likely to develop viral pneumonia.",
+                "Smoking: Weakens the lungs and increases vulnerability to respiratory infections.",
+                "Recent Upper Respiratory Infection: Viral infections like the common cold or flu can lead to pneumonia if not managed properly."
+            ],
+            "symptoms": [
+                "Dry or productive cough.",
+                "Fever and chills.",
+                "Shortness of breath or rapid breathing.",
+                "Fatigue and weakness.",
+                "Chest pain, especially when coughing or breathing deeply.",
+                "Sore throat and runny nose (in some cases, if the viral infection is upper respiratory)."
+            ],
+            "home_remedies": [
+                "Hydration: Drink plenty of fluids like water, herbal teas, and broths to loosen mucus and stay hydrated.",
+                "Steam Inhalation: Helps open up the airways and makes breathing easier.",
+                "Saltwater Gargles: Relieve throat irritation and reduce coughing.",
+                "Honey and Ginger: Known for their anti-inflammatory properties, helping soothe the throat and reduce coughing.",
+                "Rest: Adequate rest is essential for the body to fight the infection and speed up recovery."
+            ],
+            "complications": [
+                "Respiratory Failure: Difficulty breathing or lack of oxygen in severe cases.",
+                "Pleural Effusion: Fluid buildup around the lungs, causing further difficulty in breathing.",
+                "Secondary Bacterial Infection: Can occur if bacteria invade the lungs following viral infection.",
+                "Acute Respiratory Distress Syndrome (ARDS): A serious condition where the lungs cannot provide enough oxygen to the body.",
+                "Lung Abscess: Pus-filled cavities that form in the lung due to infection."
+            ],
+            "when_to_see_a_doctor": [
+                "Difficulty breathing or shortness of breath.",
+                "High fever that does not improve after a few days.",
+                "Persistent cough with green or bloody sputum.",
+                "Severe chest pain or discomfort.",
+                "If symptoms worsen after initial improvement.",
+                "If you have a weakened immune system or other chronic health conditions that may complicate recovery."
+            ],
+            "whom_to_consult": [
+                "General Physician: For diagnosis, management, and possible antiviral medication prescription.",
+                "Pulmonologist: For severe or complicated cases, especially those involving respiratory failure.",
+                "Infectious Disease Specialist: For ongoing or resistant viral infections.",
+                "Critical Care Specialist: For severe cases requiring intensive care or mechanical ventilation."
+            ],
+            "calorie_and_diet_intake": "2,000\u00e2\u20ac\u201c2,400 calories/day"
+        }
+    },
+    {
+        "title":"Glaucoma",
+        "content":{
+            "images": [
+                "/disese-img/Glaucoma/1.jpeg",
+                "/disese-img/Glaucoma/2.jpeg"
+            ],
+            "summary": "Glaucoma is a group of eye conditions that damage the optic nerve, often caused by abnormally high pressure within the eye. If left untreated, it can lead to permanent vision loss. It is one of the leading causes of blindness, especially among older adults. Early detection and treatment can prevent significant vision impairment.",
+            "possible_causes": [
+                "Increased Intraocular Pressure (IOP): The most common cause, often due to an imbalance in the production and drainage of fluid within the eye.",
+                "Genetics: Family history of glaucoma increases the risk.",
+                "Ethnicity: African Americans, Hispanics, and Asians are more likely to develop certain types of glaucoma.",
+                "Medical Conditions: Diabetes, hypertension, and heart disease can increase the risk of developing glaucoma.",
+                "Eye Injuries or Surgeries: Past eye trauma or surgery may increase the risk of glaucoma."
+            ],
+            "risk_factors": [
+                "Family History: Having a family member with glaucoma significantly raises the risk.",
+                "Ethnic Background: African Americans and Asians have higher rates of certain types of glaucoma.",
+                "Existing Eye Conditions: Conditions such as high myopia (nearsightedness) or previous eye trauma can increase the risk.",
+                "Medical History: Diabetes, high blood pressure, and long-term corticosteroid use can raise the likelihood of developing glaucoma."
+            ],
+            "symptoms": [
+                "Open-Angle Glaucoma: Often has no symptoms in the early stages but may present with gradual vision loss.",
+                "Angle-Closure Glaucoma: Sudden severe eye pain, nausea, vomiting, blurred vision, and halos around lights.",
+                "Tunnel Vision: Loss of peripheral vision, often occurring in the later stages.",
+                "Redness in the Eye: In some types of glaucoma.",
+                "Halos Around Lights: A symptom of acute angle-closure glaucoma."
+            ],
+            "home_remedies": [
+                "Cold Compress: Helps relieve discomfort and reduce eye inflammation.",
+                "Healthy Diet: Include foods rich in antioxidants like spinach, kale, and carrots, which support eye health.",
+                "Omega-3 Fatty Acids: Found in fish like salmon and flaxseed, they may help protect the optic nerve.",
+                "Regular Exercise: Helps improve blood circulation and may reduce eye pressure.",
+                "Eye Exercises: While there's no cure for glaucoma, some people find eye exercises help maintain general eye health and comfort."
+            ],
+            "complications": [
+                "Permanent Vision Loss: Untreated glaucoma can lead to irreversible blindness.",
+                "Blind Spots: Progressive loss of vision, beginning with peripheral vision.",
+                "Optic Nerve Damage: Long-term increased eye pressure can cause irreversible damage to the optic nerve.",
+                "Acute Angle-Closure Glaucoma: A medical emergency where the eye pressure increases suddenly, leading to vision loss and severe pain."
+            ],
+            "when_to_see_a_doctor": [
+                "Sudden Vision Loss: If you experience a sudden decrease in vision, especially in one eye.",
+                "Eye Pain or Redness: Unexplained eye pain or redness should be evaluated immediately.",
+                "Blurry or Halos Around Lights: Especially if the symptoms are accompanied by nausea or vomiting.",
+                "Loss of Peripheral Vision: Gradual loss of side vision can be a sign of glaucoma.",
+                "Family History of Glaucoma: If you're over 40 and have a family history, regular eye exams are crucial."
+            ],
+            "whom_to_consult": [
+                "Optometrist or Ophthalmologist: For diagnosis, ongoing monitoring, and management of glaucoma.",
+                "Glaucoma Specialist: For advanced treatment and surgical options, especially in cases of drug-resistant glaucoma.",
+                "General Physician: To manage related health conditions such as high blood pressure or diabetes that may affect glaucoma treatment."
+            ],
+            "calorie_and_diet_intake": "2,000\u00e2\u20ac\u201c2,500 calories/day"
+        }
+    },
+    {
+        "title":"Meningioma",
+        "content":{
+            "images": [
+                "/disese-img/Meningioma/1.jpeg",
+                "/disese-img/Meningioma/2.jpeg"
+            ],
+            "summary": "Meningioma is a type of tumor that forms in the meninges, the protective layers surrounding the brain and spinal cord. While generally benign, meningiomas can cause significant neurological symptoms depending on their size and location. In some cases, they may become malignant or require surgical intervention to prevent complications. Meningiomas are most common in older adults and can grow slowly over time.",
+            "possible_causes": [
+                "Genetics: Family history of meningiomas or other types of tumors can increase the risk.",
+                "Hormonal Factors: Estrogen and progesterone receptors on tumor cells suggest that hormones may play a role in the growth of meningiomas.",
+                "Radiation Exposure: Previous exposure to radiation, particularly to the head, can increase the risk of developing meningioma.",
+                "Gender: Women are more likely than men to develop meningiomas, particularly during the reproductive years.",
+                "Neurofibromatosis Type 2: A genetic disorder that increases the risk of meningiomas."
+            ],
+            "risk_factors": [
+                "Gender: Women are more likely to develop meningiomas, possibly due to hormonal influences.",
+                "Previous Radiation Therapy: History of radiation treatment, particularly to the head or neck, raises the risk.",
+                "Genetic Conditions: Neurofibromatosis type 2, a genetic disorder, is associated with a higher risk of meningiomas.",
+                "Hormonal Changes: Pregnant women or those taking hormonal therapy may have an increased risk due to hormonal fluctuations."
+            ],
+            "symptoms": [
+                "Headaches: Often the most common symptom, especially if the tumor presses on surrounding tissue.",
+                "Seizures: Can occur if the tumor irritates the brain.",
+                "Vision Problems: Blurred vision or partial loss of vision due to pressure on the optic nerve.",
+                "Cognitive Changes: Memory loss, confusion, or difficulty concentrating.",
+                "Weakness or Numbness: In the limbs or face if the tumor affects motor pathways.",
+                "Hearing Loss or Tinnitus: Ringing in the ears or loss of hearing if the tumor is near the auditory nerve."
+            ],
+            "home_remedies": [
+                "Stress Management: Techniques like yoga, meditation, and deep breathing exercises to manage symptoms associated with stress and headaches.",
+                "Hydration: Adequate fluid intake may help alleviate symptoms such as dizziness and headaches.",
+                "Balanced Diet: Focus on a diet rich in antioxidants to promote general brain health.",
+                "Limit Caffeine and Alcohol: Reducing caffeine and alcohol intake can help control headaches and improve sleep quality.",
+                "Regular Physical Activity: Gentle exercises, such as walking or swimming, can improve overall circulation and well-being."
+            ],
+            "complications": [
+                "Neurological Impairment: If untreated, large meningiomas can cause brain damage, affecting cognitive functions, motor skills, and speech.",
+                "Severe Headaches and Seizures: Persistent pressure from the tumor can cause severe headaches and seizures.",
+                "Vision Loss: Tumors located near the optic nerves can lead to permanent vision problems.",
+                "Hydrocephalus: Tumors located near the brain's ventricles can cause a buildup of cerebrospinal fluid, leading to increased intracranial pressure.",
+                "Malignant Transformation: In rare cases, a benign meningioma can become malignant and spread to other parts of the body."
+            ],
+            "when_to_see_a_doctor": [
+                "Persistent Headaches: Especially if accompanied by vision problems, nausea, or vomiting.",
+                "Seizures: New or unexplained seizures should be evaluated by a physician.",
+                "Changes in Vision or Hearing: Difficulty seeing or hearing that doesn't improve.",
+                "Sudden Cognitive Decline: Noticeable memory loss, confusion, or difficulty with daily tasks.",
+                "Muscle Weakness or Numbness: Sudden weakness in limbs or face, particularly if it affects one side of the body."
+            ],
+            "whom_to_consult": [
+                "Neurologist: For a thorough neurological examination and diagnosis.",
+                "Neurosurgeon: If surgical intervention is required to remove or biopsy the meningioma.",
+                "Oncologist: In cases where the meningioma is malignant or has the potential to spread.",
+                "Radiologist: To perform imaging studies, such as CT or MRI scans, to confirm the diagnosis and monitor tumor progression."
+            ],
+            "calorie_and_diet_intake": "2,000\u00e2\u20ac\u201c2,500 calories/day"
+        }
+    },
+    {
+        "title": "Pituitary",
+        "content": {
+            "images": [
+                "/disese-img/Pituitary/1.jpeg",
+                "/disese-img/Pituitary/2.jpeg"
+            ],
+            "summary": [
+                "Pituitary tumors are abnormal growths that develop in the pituitary gland, a small organ at the base of the brain responsible for producing hormones that regulate critical body functions. While most pituitary tumors are benign (non-cancerous), they can affect hormone production and lead to symptoms such as headaches, vision problems, and hormonal imbalances. The treatment often involves medications, surgery, or radiation therapy depending on the size and type of the tumor."
+            ],
+            "possible_causes": [
+                "Genetic Factors: Family history of pituitary tumors or inherited genetic conditions like Multiple Endocrine Neoplasia type 1 (MEN1).",
+                "Hormonal Imbalance: Overproduction or underproduction of certain hormones in the pituitary gland can contribute to tumor growth.",
+                "Radiation Exposure: Past radiation therapy, particularly to the head, increases the risk of developing a pituitary tumor.",
+                "Chronic Conditions: Hormonal disorders such as acromegaly or Cushing\u00e2\u20ac\u2122s disease may be associated with pituitary tumors."
+            ],
+            "risk_factors": [
+                "Gender: Both men and women can develop pituitary tumors, though some types are more common in one gender.",
+                "Genetic Conditions: MEN1 syndrome and other inherited conditions can increase the likelihood of pituitary tumors.",
+                "Previous Head Radiation: Radiation treatments, especially to the head, can elevate the risk.",
+                "Family History: A family history of pituitary tumors can raise the risk of developing one."
+            ],
+            "symptoms": [
+                "Headaches: Often a result of tumor pressure on surrounding brain structures.",
+                "Vision Problems: Tumors that press on the optic nerves can lead to blurry vision, loss of peripheral vision, or double vision.",
+                "Hormonal Imbalance Symptoms: Unexplained weight gain, irregular periods, excessive hair growth, or changes in skin tone due to hormone overproduction or underproduction.",
+                "Fatigue and Weakness: Common in cases of hormone deficiency caused by the tumor.",
+                "Nausea and Vomiting: Tumor-induced pressure can cause nausea, particularly in the morning.",
+                "Changes in Menstrual Cycle or Libido: For women, irregular periods, and for men, reduced libido can occur."
+            ],
+            "home_remedies": [
+                "Stress Reduction: Meditation, yoga, and other relaxation techniques can help manage stress and symptoms of pituitary tumors.",
+                "Healthy Diet: A balanced diet that includes antioxidants (berries, leafy greens) and vitamin-rich foods (carrots, citrus fruits) can support general health.",
+                "Adequate Hydration: Staying well-hydrated (2-3 liters of water a day) can help prevent headaches and promote overall well-being.",
+                "Exercise: Regular, moderate exercise helps improve energy levels and manage weight, especially in cases of hormonal imbalance.",
+                "Sleep Hygiene: Maintaining a healthy sleep routine (7-9 hours a night) can help manage fatigue associated with pituitary tumors."
+            ],
+            "complications": [
+                "Vision Loss: Tumors that press on the optic nerve can lead to permanent vision damage.",
+                "Hormonal Imbalance: Untreated pituitary tumors can cause excessive or deficient hormone production, leading to conditions like Cushing's disease, acromegaly, or hypothyroidism.",
+                "Infertility: Hormonal imbalances caused by pituitary tumors can affect fertility in both men and women.",
+                "Headaches and Migraines: Ongoing headaches due to tumor pressure can severely affect quality of life.",
+                "Compression of Adjacent Brain Structures: Larger tumors can compress critical brain structures, leading to neurological issues such as cognitive decline or memory problems."
+            ],
+            "when_to_see_a_doctor": [
+                "Persistent Headaches: Particularly those that do not respond to over-the-counter medications.",
+                "Vision Changes: Blurry vision, double vision, or loss of peripheral vision.",
+                "Endocrine Symptoms: Unexplained weight gain, hair loss, irregular periods, or other signs of hormonal imbalances.",
+                "Severe Fatigue: Unexplained, persistent fatigue that doesn\u00e2\u20ac\u2122t improve with rest.",
+                "Nausea or Vomiting: Especially if it's persistent and occurs without any clear cause."
+            ],
+            "whom_to_consult": [
+                "Endocrinologist: For diagnosis and treatment of hormonal imbalances caused by pituitary tumors.",
+                "Neurologist: If the tumor is affecting brain functions, vision, or causing severe headaches.",
+                "Neurosurgeon: If surgical intervention is required to remove the tumor.",
+                "Ophthalmologist: For vision problems caused by tumor-induced pressure on the optic nerve."
+            ],
+            "calorie_and_diet_intake": [
+                "Total Daily Calorie Intake: 2,000\u00e2\u20ac\u201c2,500 calories/day"
+            ]
+        }
+    },
+    {
+        "title": "Notumor",
+        "content": {
+            "images": [],
+            "Diagnosis": [
+                "No tumor has been detected in the patient\u00e2\u20ac\u2122s brain as per the latest imaging results. The absence of abnormal growths confirms a negative diagnosis for tumors."
+            ],
+            "summary": [
+                "Imaging Studies: CT scan, MRI, and other relevant diagnostic tests show no presence of tumors.",
+                "Clinical Evaluation: The patient's symptoms, if any, do not suggest tumor-related conditions.",
+                "Health Status: The patient remains free from detectable tumor-related health issues and shows no signs of abnormal growths."
+            ],
+            "conclusion": [
+                "The patient does not exhibit any evidence of tumors at present. Routine follow-up and regular monitoring are advised to ensure the continued absence of tumor-related conditions. Based on the current evaluation, no further interventions for tumor management are required at this time."
+            ],
+            "recommendation": [
+                "Follow-up Appointments: Recommended routine check-ups every 6\u00e2\u20ac\u201c12 months, depending on individual risk factors.",
+                "General Health Monitoring: Continue to monitor overall health, including neurological status and any unusual symptoms, to ensure early detection of any potential health issues."
+            ]
+        }
+    },
+    {
+        "title": "Normal",
+        "content": {
+            "images": [],
+            "Diagnosis": [
+                "The chest X-ray reveals normal findings, with no evidence of abnormalities such as lung lesions, infections, or other pathology."
+            ],
+            "summary": [
+                "Lungs: Clear and well-expanded with no signs of consolidation, opacity, or masses.",
+                "Heart: Normal size and contour with no enlargement or abnormality.",
+                "Bones: No fractures, deformities, or signs of osteoporosis in the ribs, clavicles, or spine.",
+                "Mediastinum: Normal width, with no signs of mass or lymphadenopathy.",
+                "Diaphragm: Smooth, well-defined, with no evidence of free air or abnormality.",
+                "Pleura: No pleural effusion or thickening."
+            ],
+            "conclusion": [
+                "The chest X-ray is normal, with no detectable abnormalities. The lungs, heart, and other thoracic structures appear healthy and free from visible disease or injury. No further imaging or interventions are required at this time unless clinical symptoms warrant additional investigation."
+            ],
+            "recommendation": [
+                "Routine Follow-Up: Continue with regular health check-ups as per your healthcare provider's guidance."
+            ]
+        }
+    }
+]
